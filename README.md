@@ -16,6 +16,16 @@
 
 ###
 
+<h2 align="left">CodeUtsava 7.0 Project</h2>
+
+<div align="left">
+  <p>🏆 CodeUtsava 7.0 Problem Statement Winner</p>
+  <p>🚀 Check out the project description <a href="https://devfolio.co/projects/jadoo-0e14">here</a></p>
+  <p>🔗 View the certificate <a href="https://1drv.ms/b/s!Agg-Ni92X6kcgSrt5xjUzgQ3zvhz">here</a></p>
+</div>
+
+###
+
 <h2 align="left">Tech  Stacks</h2>
 
 ###
