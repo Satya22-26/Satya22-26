@@ -61,7 +61,7 @@
   <a href="https://twitter.com/SatyaPr76075884" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="satyaprakashjena492@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=satyaprakashjena492@gmail.com&su=SUBJECT&body=BODY&bcc=satyaprakashjena492@gmail.com&tf=cm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
