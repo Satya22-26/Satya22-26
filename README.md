@@ -14,6 +14,8 @@
 
 <p align="left">- 🎓 B.Tech in IT @ NIT Raipur | Class of 2026<br>- 💻 Frontend Developer | DSA Enthusiast</p>
 
+[Web3 Portfolio](https://web3portfoliosatya.netlify.app/)
+
 ###
 
 <h2 align="left">CodeUtsava 7.0 Project</h2>
