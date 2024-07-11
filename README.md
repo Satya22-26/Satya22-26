@@ -32,9 +32,6 @@ I'm currently pursuing my B.Tech in IT at NIT Raipur, slated to graduate in 2026
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>&nbsp;
@@ -68,9 +65,6 @@ I'm currently pursuing my B.Tech in IT at NIT Raipur, slated to graduate in 2026
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
   </a>&nbsp;
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" />
-  </a>&nbsp;
   <a href="https://metamask.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
   </a>&nbsp;
@@ -95,12 +89,6 @@ I'm currently pursuing my B.Tech in IT at NIT Raipur, slated to graduate in 2026
   <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" />
   </a>&nbsp;
-  <a href="https://trufflesuite.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" />
-  </a>&nbsp;
-  <a href="https://framer.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" />
-  </a>
 </p>
 
 
