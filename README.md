@@ -6,7 +6,6 @@ DSA Enthusiast | Frontend and Web3 Developer
 
 I'm currently pursuing my B.Tech in IT at NIT Raipur, slated to graduate in 2026. I'm deeply passionate about frontend development and blockchain. Hackathons are my jam—I've taken part in several and even clinched as the PS Winner (Team Visionaries United) in CodeUtsava 7.0. Recently, I was also honored to be a finalist at the ONDC Build for Bharat Hackathon. Can't wait to see where this journey takes me next!
 
-* 🖥️  See my portfolio at [Web3Portfolio](http://web3portfoliosatya.netlify.app/)
 * ✉️  You can contact me at [satyaprakashjena492@gmail.com](mailto:satyaprakashjena492@gmail.com)
 
 ###
@@ -108,4 +107,4 @@ I'm currently pursuing my B.Tech in IT at NIT Raipur, slated to graduate in 2026
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Satya22-26/Content-Manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Satya22-26&repo=Content-Manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Satya22-26/BlockStake-Hub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Satya22-26&repo=BlockStake-Hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Satya22-26/QnAverse" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Satya22-26&repo=Content-Manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Satya22-26/BlockStake-Hub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Satya22-26&repo=BlockStake-Hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
