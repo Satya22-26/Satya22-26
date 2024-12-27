@@ -107,4 +107,8 @@ I'm currently pursuing my B.Tech in IT at NIT Raipur, slated to graduate in 2026
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Satya22-26/QnAverse" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Satya22-26&repo=Content-Manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Satya22-26/BlockStake-Hub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Satya22-26&repo=BlockStake-Hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![**QnAverse**](https://github-readme-stats.vercel.app/api/pin/?username=Satya22-26&repo=QnAverse&theme=dark)](https://github.com/Satya22-26/QnAverse)
+
+[![**Content-Manager**](https://github-readme-stats.vercel.app/api/pin/?username=Satya22-26&repo=Content-Manager&theme=dark)](https://github.com/Satya22-26/Content-Manager)
+
+[![**GDrive3.0**](https://github-readme-stats.vercel.app/api/pin/?username=Satya22-26&repo=GDrive3.0&theme=dark)](https://github.com/Satya22-26/GDrive3.0)
