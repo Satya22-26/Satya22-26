@@ -58,9 +58,6 @@ I'm currently pursuing my B.Tech in IT at NIT Raipur, slated to graduate in 2026
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
   </a>&nbsp;
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36"  alt="Firebase" />
-  </a>&nbsp;
   <a href="https://metamask.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
   </a>&nbsp;
@@ -86,6 +83,7 @@ I'm currently pursuing my B.Tech in IT at NIT Raipur, slated to graduate in 2026
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" />
   </a>&nbsp;
 </p>
+
 
 
 ### Socials
